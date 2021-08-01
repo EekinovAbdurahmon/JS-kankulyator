@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(90deg, red, blue);
+    background-size: cover;
+}
+.card{
+    background-color: dimgray;
+}
+.fff{
+    padding: 9px 43px;
+}
+.fffs{
+    padding: 9px 46px;
+}
+.card-header{
+    border: 1px solid ;
+    border-radius: 20px!important
+}
+.box{
+    display: flex;
+    margin-top: 5px;
+}
+.dum{
+    width: 35px;
+    height: 35px;
+    border-radius: 35px;
+    background-color: greenyellow;
+}
+.sten{
+    height: 45px;
+    width: 7px;
+    background-color: #fff;
+    transform: rotate(12deg);
+    margin-left: 4px;
+}
+.fox{
+    margin-left: 5px;
+}
+.fox p {
+    margin-top: -3px;
+    background: red;
+    padding: 0 2px;
+    color: #fff;
+}
+.log{
+    margin-top: -3px;
+    display: flex;
+}
