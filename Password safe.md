@@ -1,1 +1,1 @@
-bu kodda  passwordninng hafsizligi korsatuvchi omil bor.
+bu kodda  passwordninng hafsizligi korsatuvchi omil bor
