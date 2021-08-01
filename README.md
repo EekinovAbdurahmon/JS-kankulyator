@@ -1,1 +1,1 @@
-# erkinov-amaliyots
+bu kodda  passwordninng hafsizligi korsatuvchi omil bor
